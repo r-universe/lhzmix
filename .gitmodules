@@ -5,3 +5,6 @@
 [submodule "SpatMix"]
 	path = SpatMix
 	url = https://github.com/lhzmix/spatmix
+[submodule "mpem"]
+	path = mpem
+	url = https://github.com/lhzmix/mpem
